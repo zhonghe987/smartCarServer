@@ -1,0 +1,109 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "/S6uDa9Hh34HDKKhhOpsds2OY2o=",
+			"path": "github.com/Unknwon/goconfig",
+			"revision": "56bd8ab186196b5203e3b8e17057a04a65153003",
+			"revisionTime": "2018-11-05T21:41:10Z"
+		},
+		{
+			"checksumSHA1": "aeMQwIvMh0XOP8UqV+z/YR8DW9g=",
+			"path": "github.com/cihub/seelog",
+			"revision": "f561c5e57575bb1e0a2167028b7339b3a8d16fb4",
+			"revisionTime": "2017-01-30T13:45:32Z"
+		},
+		{
+			"checksumSHA1": "IObxVi6ExAwv97Pv8NYswDXxEiM=",
+			"path": "github.com/cihub/seelog/archive",
+			"revision": "f561c5e57575bb1e0a2167028b7339b3a8d16fb4",
+			"revisionTime": "2017-01-30T13:45:32Z"
+		},
+		{
+			"checksumSHA1": "STXa3HCp/W61OP8fMvOvq32kS0k=",
+			"path": "github.com/cihub/seelog/archive/gzip",
+			"revision": "f561c5e57575bb1e0a2167028b7339b3a8d16fb4",
+			"revisionTime": "2017-01-30T13:45:32Z"
+		},
+		{
+			"checksumSHA1": "uBsd1EWQ5ApkrXJn6GGIFo2v8Hw=",
+			"path": "github.com/cihub/seelog/archive/tar",
+			"revision": "f561c5e57575bb1e0a2167028b7339b3a8d16fb4",
+			"revisionTime": "2017-01-30T13:45:32Z"
+		},
+		{
+			"checksumSHA1": "GFlQZMvVnTnpAoY3S/G5Z7o6UjY=",
+			"path": "github.com/cihub/seelog/archive/zip",
+			"revision": "f561c5e57575bb1e0a2167028b7339b3a8d16fb4",
+			"revisionTime": "2017-01-30T13:45:32Z"
+		},
+		{
+			"checksumSHA1": "uYMCJGo5Vvp7Lr7qXnTGoFempDY=",
+			"path": "github.com/emicklei/go-restful",
+			"revision": "84db0d02230aa550f3ec148981e4d75cf316e123",
+			"revisionTime": "2018-07-26T09:12:47Z"
+		},
+		{
+			"checksumSHA1": "KJuY6p4fqLtSC+Uvv7AQ8gLy8aw=",
+			"path": "github.com/emicklei/go-restful/log",
+			"revision": "84db0d02230aa550f3ec148981e4d75cf316e123",
+			"revisionTime": "2018-07-26T09:12:47Z"
+		},
+		{
+			"checksumSHA1": "igtr01xT/xDT02SVc/VYqwNuX6o=",
+			"path": "github.com/go-xorm/builder",
+			"revision": "03eb88feccce3e477c318ce7f6f1b386544ab20b",
+			"revisionTime": "2018-10-26T05:37:58Z"
+		},
+		{
+			"checksumSHA1": "B2Tn8TaQsR+6MzUQlxEjxAAFeX4=",
+			"path": "github.com/go-xorm/core",
+			"revision": "6bc9412b1c4d00c0a5cc9dd939a245a82cc50227",
+			"revisionTime": "2018-10-08T13:23:26Z"
+		},
+		{
+			"checksumSHA1": "d7mp2Ge2K08HIXU5g26OHHEQsYY=",
+			"path": "github.com/go-xorm/xorm",
+			"revision": "b07c4067034594d1a43e314b10153ff9cfc58f86",
+			"revisionTime": "2018-11-02T16:17:11Z"
+		},
+		{
+			"checksumSHA1": "AajwUl2CM0s6QNn3tU1HEtk/M6Q=",
+			"path": "github.com/jolestar/go-commons-pool",
+			"revision": "2fd436430fcbceb6500a2bb8efab27e71aaf7a9f",
+			"revisionTime": "2018-08-30T06:44:53Z"
+		},
+		{
+			"checksumSHA1": "0szdhzVf+t0kV4Hui8Hn1kulFAs=",
+			"path": "github.com/jolestar/go-commons-pool/collections",
+			"revision": "2fd436430fcbceb6500a2bb8efab27e71aaf7a9f",
+			"revisionTime": "2018-08-30T06:44:53Z"
+		},
+		{
+			"checksumSHA1": "gtXBmjDA7uHSLAL+zDqML/2seIQ=",
+			"path": "github.com/jolestar/go-commons-pool/concurrent",
+			"revision": "2fd436430fcbceb6500a2bb8efab27e71aaf7a9f",
+			"revisionTime": "2018-08-30T06:44:53Z"
+		},
+		{
+			"checksumSHA1": "tzVxvH10T34kAnJ15FcyEzIYsS0=",
+			"path": "github.com/l1va/gofins/fins",
+			"revision": "d7969329c3cb6805811f8fee16c1ff46744162d7",
+			"revisionTime": "2018-10-18T09:56:30Z"
+		},
+		{
+			"checksumSHA1": "kVRVKnB1ER6xYboIpWVLXgepxS8=",
+			"path": "github.com/mattn/go-sqlite3",
+			"revision": "eed79b86572f203cc92e92048ba06b56a8ca06e8",
+			"revisionTime": "2018-11-09T09:53:04Z"
+		},
+		{
+			"checksumSHA1": "dOz3F+eVgnc32Cr980luzM/0rFI=",
+			"path": "github.com/silenceper/pool",
+			"revision": "b2541842a15712128f10232e2124b831a47713f3",
+			"revisionTime": "2018-09-14T14:45:19Z"
+		}
+	],
+	"rootPath": "smartCar"
+}
